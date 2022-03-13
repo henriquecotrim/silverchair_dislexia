@@ -1,0 +1,169 @@
+body { 
+  text-align:center; 
+  font-family:arial, sans serif;
+  background-color:#edd464;
+  margin-top: 0;
+  margin-left: 16%;
+  Margin-right: 16%;
+  margin-bottom: 40px;
+  hyphens:auto;
+  word-spacing: 6px;
+  letter-spacing:2px;
+
+ }
+
+ .original{
+   background-color:#0d0c0b;
+   color:#b3b098; 
+   font-family:'Times New Roman', Times, serif, Helvetica, sans-serif;
+   margin-top:0;
+   font-size: 30px;
+   text-align:center;
+   width: 100%;
+   font-weight:bold;
+
+  }
+   .menu{
+    background:#4f451c;
+    padding-bottom:1px;
+    font-size:23px;
+    text-align:left;
+    word-spacing:7px;
+    letter-spacing:2px;
+    margin-left:5%;
+    margin-right:30;
+    width:90%;
+  }
+ 
+  p{
+    font-size: 21px;
+    font-weight:0;
+    color: #1a1814;
+    text-align:left;
+    width: 100%;
+    font-family:arial, sans-serif;
+    margin-bottom:1.5;
+    weight: none;
+    line-height:1.5;
+    word-spacing:7px;
+    letter-spacing:2px;
+    text-indent:1em;
+    }
+
+  .es{
+
+    color: #61576e;
+    font-size: 25px;
+    }
+  
+  h1{
+      font-size: 47px;
+      font-weight: 600;
+      text-align: left;
+      margin: 20px;
+      margin-left:0;
+      font-family: verdana, comic sans; 
+      color: #4f451c;
+      background:#ded3a4;
+      
+    }
+  h2{
+    color: #0b0b1d;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 600;
+    font-family: verdana, comic sans;  
+    
+    }
+  h3{
+    font-size: 30px;
+    font-family: verdana, comic sans;
+    background-color: #65b5b1; 
+    text-align: left;
+    text-indent:1em;
+    width:100%;
+    }
+  
+  img{
+    width:55%;
+
+    }
+
+  .camera{
+  width:15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  margin-bottom:7px;
+  margin-top:7px;
+}
+
+  section{
+  width:85%;
+  margin:0 auto;
+ }
+  
+
+  ul{list-style-type: square type block;
+  line-height:2;
+  padding-left:0;
+
+ }
+  a{
+   text-decoration:none;
+   color:#f7f0f0;
+   font-weight:700;
+
+ }
+  .navbar {
+  margin-top:60px;
+  width: 100%;
+  background-color: #2D0B05;
+  overflow: auto;
+}
+
+
+  section section{
+  width: 100%;
+}
+
+  .school:{
+
+  margin-bottom: 20px;
+  margin-top: 18px;
+  }
+
+  iframe{
+
+    margin-top: 21px;
+    margin-bottom: 21px;
+
+  }
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
